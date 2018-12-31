@@ -30,7 +30,7 @@ function init() {
         container.addChild(heart);
     }
 
-    var text = new createjs.Text("你知道我的缺点是什么吗? \n 是缺点你。", "bold 120px Arial", "#79C2EA");
+    var text = new createjs.Text("你知道我的缺点是什么吗? \n 是缺点你。", "bold 90px Arial", "#79C2EA");
     // var text = new createjs.Text("天空是无限的\n 在我的印象里。\n  我从不厌倦看\n 发生了什么事。", "bold 30px Arial", "#312");
     text.textAlign = "center";
     text.x = w / 2;
